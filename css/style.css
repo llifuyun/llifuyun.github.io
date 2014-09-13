@@ -343,7 +343,6 @@ body {
   position: relative;
   overflow: hidden;
 }
-#background: url(banner-url) center #000,
 #banner {
   position: absolute;
   top: 0;
