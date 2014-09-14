@@ -4,7 +4,7 @@
   <subtitle><![CDATA[I believe there is light at the end of the tunnel,Day Day Up!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://easylearn.pw/"/>
-  <updated>2014-09-13T16:00:11.419Z</updated>
+  <updated>2014-09-14T15:35:32.459Z</updated>
   <id>http://easylearn.pw/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[GitHub域名绑定]]></title>
+    <link href="http://easylearn.pw/2014/09/14/domain-github/"/>
+    <id>http://easylearn.pw/2014/09/14/domain-github/</id>
+    <published>2014-09-14T15:29:05.000Z</published>
+    <updated>2014-09-14T15:31:00.000Z</updated>
+    <content type="html"><![CDATA[<p>　　Github中绑定域名的方法很简单，具体步骤为：</p>
+<ol>
+<li>在根目录中新建CNAME的文件，然后里面写入你需要绑定的域名，当然可以支持同时绑定多个域名，你只需要分多行编写即可；</li>
+<li>将你的域名按CNAME的解析方式解析到你的GitHub二级域名即可。<a id="more"></a>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>　　Github中绑定域名的方法很简单，具体步骤为：</p>
+<ol>
+<li>在根目录中新建CNAME的文件，然后里面写入你需要绑定的域名，当然可以支持同时绑定多个域名，你只需要分多行编写即可；</li>
+<li>将你的域名按CNAME的解析方式解析到你的GitHub二级域名即可。]]>
+    
+    </summary>
+    
+      <category term="Github" scheme="http://easylearn.pw/categories/Github/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World Hexo]]></title>
