@@ -442,6 +442,12 @@ body {
 #nav-rss-link:before {
   content: "\f09e";
 }
+#nav-rss-mail:before {
+  content: "\f0e0";
+}
+#nav-rss-github:before {
+  content: "\f113";
+}
 #nav-search-btn:before {
   content: "\f002";
 }
