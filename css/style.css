@@ -405,6 +405,9 @@ body {
 .main-nav-link:hover {
   opacity: 1;
 }
+.icon {
+  font-family: FontAwesome;
+}
 .nav-icon {
   font-family: FontAwesome;
   text-align: center;
@@ -438,6 +441,9 @@ body {
 #sub-nav {
   float: right;
   margin-right: -15px;
+}
+#nav-rss-linkdemo:before {
+  content: "\f09e";
 }
 #nav-rss-link:before {
   content: "\f09e";

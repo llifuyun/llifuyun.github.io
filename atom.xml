@@ -3,9 +3,9 @@
   <title><![CDATA[Fuyun's blog]]></title>
   <subtitle><![CDATA[I believe there is light at the end of the tunnel,Day Day Up!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://easylearn.pw/"/>
-  <updated>2014-09-16T05:56:03.663Z</updated>
-  <id>http://easylearn.pw/</id>
+  <link href="http://lifuyun.com/"/>
+  <updated>2014-09-16T07:12:58.006Z</updated>
+  <id>http://lifuyun.com/</id>
   
   <author>
     <name><![CDATA[Fuyun Li]]></name>
@@ -15,9 +15,30 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[修改Hexo里面的图标]]></title>
+    <link href="http://lifuyun.com/2014/09/16/ChangeIcoForHexo/"/>
+    <id>http://lifuyun.com/2014/09/16/ChangeIcoForHexo/</id>
+    <published>2014-09-16T06:11:20.000Z</published>
+    <updated>2014-09-16T07:12:11.000Z</updated>
+    <content type="html"><![CDATA[<p>页面中的图标主要来自于fontawesome-webfont中，比如rss图标 <a title="RSS Feed" id="nav-rss-linkdemo" class="icon"></a> ，实现如下：</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="title">a</span> <span class="attribute">title</span>=<span class="value">"RSS Feed"</span> <span class="attribute">id</span>=<span class="value">"nav-rss-linkdemo"</span> <span class="attribute">class</span>=<span class="value">"icon"</span> &gt;</span><span class="tag">&lt;/<span class="title">a</span>&gt;</span></div><div class="line">css：</div><div class="line">#nav-rss-linkdemo</div><div class="line">  &:before</div><div class="line">    content: "\f09e"</div><div class="line">.icon</div><div class="line">  font-family: font-icon</div></pre></td></tr></table></figure>
+
+<p><a id="more"></a><br>  说明：#nav-rss-linkdemo使用fontawesome-webfont中的图标，.icon引入fontawesome字体，自己在主题下的header.style 新增进去。<br>  图标的代码可以在fontawesome网站查看，图标代码对照 ：<a href="http://fortawesome.github.io/Font-Awesome/cheatsheet/" target="_blank" rel="external">查看</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>页面中的图标主要来自于fontawesome-webfont中，比如rss图标 <a title="RSS Feed" id="nav-rss-linkdemo" class="icon"></a> ，实现如下：</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="title">a</span> <span class="attribute">title</span>=<span class="value">"RSS Feed"</span> <span class="attribute">id</span>=<span class="value">"nav-rss-linkdemo"</span> <span class="attribute">class</span>=<span class="value">"icon"</span> &gt;</span><span class="tag">&lt;/<span class="title">a</span>&gt;</span></div><div class="line">css：</div><div class="line">#nav-rss-linkdemo</div><div class="line">  &:before</div><div class="line">    content: "\f09e"</div><div class="line">.icon</div><div class="line">  font-family: font-icon</div></pre></td></tr></table></figure>
+
+<p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[GitHub域名绑定]]></title>
-    <link href="http://easylearn.pw/2014/09/14/domain-github/"/>
-    <id>http://easylearn.pw/2014/09/14/domain-github/</id>
+    <link href="http://lifuyun.com/2014/09/14/domain-github/"/>
+    <id>http://lifuyun.com/2014/09/14/domain-github/</id>
     <published>2014-09-14T15:29:05.000Z</published>
     <updated>2014-09-14T15:31:00.000Z</updated>
     <content type="html"><![CDATA[<p>　　Github中绑定域名的方法很简单，具体步骤为：</p>
@@ -35,14 +56,14 @@
     
     </summary>
     
-      <category term="Github" scheme="http://easylearn.pw/categories/Github/"/>
+      <category term="Github" scheme="http://lifuyun.com/categories/Github/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World Hexo]]></title>
-    <link href="http://easylearn.pw/2014/09/13/hello-world/"/>
-    <id>http://easylearn.pw/2014/09/13/hello-world/</id>
+    <link href="http://lifuyun.com/2014/09/13/hello-world/"/>
+    <id>http://lifuyun.com/2014/09/13/hello-world/</id>
     <published>2014-09-12T16:56:00.000Z</published>
     <updated>2014-09-13T15:56:51.000Z</updated>
     <content type="html"><![CDATA[<p>欢迎你访问我的博客 <a href="http://easylearn.pw/" target="_blank" rel="external">Fuyun’s blog</a>,这是使用<a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>搭建的第一篇文字，后续将为大家分享整个博客的构建过程，希望对大家有用。<br><a id="more"></a></p>
@@ -52,9 +73,9 @@
     
     </summary>
     
-      <category term="first time" scheme="http://easylearn.pw/tags/first-time/"/>
+      <category term="first time" scheme="http://lifuyun.com/tags/first-time/"/>
     
-      <category term="随笔" scheme="http://easylearn.pw/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://lifuyun.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
