@@ -4,7 +4,7 @@
   <subtitle><![CDATA[I believe there is light at the end of the tunnel,Day Day Up!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lifuyun.com/"/>
-  <updated>2014-09-19T01:43:05.697Z</updated>
+  <updated>2014-09-19T01:52:43.942Z</updated>
   <id>http://lifuyun.com/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[使用七牛云存储实现静态网页的动态内容]]></title>
+    <link href="http://lifuyun.com/2014/09/19/qiniu-use/"/>
+    <id>http://lifuyun.com/2014/09/19/qiniu-use/</id>
+    <published>2014-09-19T01:20:28.000Z</published>
+    <updated>2014-09-19T01:51:53.000Z</updated>
+    <content type="html"><![CDATA[<p>先占位….<br><a id="more"></a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>先占位….<br>]]>
+    
+    </summary>
+    
+      <category term="云存储" scheme="http://lifuyun.com/categories/%E4%BA%91%E5%AD%98%E5%82%A8/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[SourceGrid使用小记]]></title>
